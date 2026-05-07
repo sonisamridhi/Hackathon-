@@ -1,0 +1,17 @@
+{
+  "subjects": [
+    "General",
+    "Math",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "Computer Science",
+    "History",
+    "English"
+  ],
+  "tips": {
+    "quiz": "Practice from easy to hard and review wrong answers.",
+    "revision": "Use spaced repetition with active recall.",
+    "summary": "Write notes in your own words and keep them concise."
+  }
+}
